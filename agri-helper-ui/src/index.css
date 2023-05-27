@@ -1,0 +1,127 @@
+.container{
+  background-color: rgb(255, 255, 255);
+display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.container input[type=text],input[type=number], input[type=email],input[type=date], select {
+  width:20em;
+  padding: 12px;
+  border: 3px solid #e86993;
+  border-radius: 4px;
+  color: #000000;
+  
+font-family:  Tahoma, Verdana, sans-serif}
+
+.container label {
+  padding: 12px 12px 5px ;
+  display: inline-block;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.book{
+  color: rgb(0, 0, 0);
+margin-right: 100px;
+  font-size: larger;
+  
+}
+.container input[type=submit]{
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  margin-left:80%;
+  transition-duration: 0.4s;
+
+
+}
+
+/* CSS */
+.container input[type=submit] {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  margin-left:80%;
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #d4255f;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  text-align: center;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left:80%;
+    will-change: transform;
+    width:21%;
+}
+
+.container input[type=submit]:disabled {
+  pointer-events: none;
+}
+
+.container input[type=submit]:hover {
+  color: #fff;
+  background-color:#d4255f;
+  box-shadow: #d4255f 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.container input[type=submit]:active{
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+
+.container h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width:300px;
+  margin-bottom: 0px;
+margin-left:72%;
+padding-top: 5%;
+text-shadow:
+-1px 0px 3px rgb(134, 13, 55),
+1px 2px 0px rgb(134, 13, 55),
+0px -1px 0px rgb(134, 13, 55),
+0px 1px 0px rgb(134, 13, 55);
+color: rgb(255, 242, 242);
+
+
+}
+ .table{
+  border-spacing: 10px;
+    border-collapse: separate;
+    width:70vw;
+
+ }
+
+.td{
+  padding-right: 100px;
+  color: rgb(146, 53, 86);
+  width:200px;
+
+}
+
+.gap{
+  margin-left: 50px;
+}
+.td1{
+  padding-left: 100px;
+}

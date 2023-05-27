@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.agrivi.com/wp-content/uploads/2023/05/AGRIVI-Blog-Profitability-COVER.jpg",
+        "title": "What Can Farms Do to Protect Their Profitability?",
+        "description": "2023 started with farms in all geographies having major concerns about profitability. In the last 2 years, inflation increased the cost of production significantly, while crop prices didn’t follow the proportional increase, putting a lot of pressure on farm profitability. Above that, global data shows that 75% of farmers are facing cost hikes, and around 60% expect that the current inflationary environment will increase spending even more in the next 12 to 18 months. Overall macroeconomic environment impacts the cost increases in the most important input areas for all agribusinesses – fertilizers 71%, crop protection products 30%, and labor 17%.",
+        "url":"https://www.agrivi.com/blog/what-can-fams-do-to-protect-profitability/"
+    },
+    {
+        "id": 2,
+        "image": "https://mahadhan.co.in/wp-content/uploads/2017/10/2017-11-01-1.jpg",
+        "title": "7 Tips To Get The Best Wheat Produce",
+        "description": "Wheat is one of the most important food crops in the world and wheat farming requires proper planning to produce a high yield. Most farmers prefer growing wheat in winter when the average temperature is between 18-24 degree Celsius. However, farmers who reside in extremely cold climates prefer the spring season as it allows enough sunlight for the wheat crop to flourish. Seven tips for successful wheat seeding and farming for maximum yield: 1: Pick a dry area for cultivation, 2: Prepare the land well in advance, 3: Spread the wheat seeds in a semi-circular motion, 4: Use phosphorus, nitrogen & Potassium fertilization, 5: Water right after planting the seeds, 6: Follow an irrigation schedule, 7: Use pesticides and insecticides as necessary.",
+        "url":"https://mahadhan.co.in/7-tips-get-best-wheat-produce/"
+    },
+    {
+        "id": 3,
+        "image": "https://eos.com/wp-content/uploads/2023/04/rice-field.jpg.webp",
+        "title": "Growing Rice: Sowing, Cultivating, And Harvesting",
+        "description": "From the perspective of global food security, rice is a crucial crop. Yet, rice growing practices are still frequently reliant on outdated manual methods that are inefficient in terms of both industrial agriculture and environmental impact. Some of the environmental costs of today’s rice paddy growing include the flooding of land to make it into cultivation fields, the massive emissions of greenhouse gases, and the overuse of agrochemicals. Fortunately, there are numerous methods (such as the use of current agricultural technologies) of how to grow rice more wisely, profitably, and sustainably.",
+        "url":"https://eos.com/blog/how-to-grow-rice/"
+    },
+    {
+        "id": 4,
+        "image": "https://eos.com/wp-content/uploads/2020/11/soil-in-hand.jpg.webp",
+        "title": "Soil Conservation Methods & Benefits Of Implementation",
+        "description": "Soil conservation is of utmost importance to farmers since productive and sustainable land management is essential to their livelihood. Good soil conservation practices can minimize soil fertility loss from erosion, salinization, or chemical pollution. Different fields require distinct land protection strategies due to the wide variety of farm management objectives and environmental factors at play. Modern agricultural monitoring methods, in particular remote sensing, make it easier and cheaper to implement soil conservation strategies in hopes of preserving land fertility for ourselves and many future generations.",
+        "url":"https://eos.com/blog/soil-conservation/"
+    },
+    {
+        "id": 5,
+        "image": "https://images.ctfassets.net/npb3dl1oqqgh/4q8WS8gRSVT4fd8AEoSS1W/1de2ce2355cd9fc6a12a7e1146335ddd/agriculture-blog-trends-predictions-dec22-1280x410.png?fm=webp&h=330&q=90",
+        "title": "Precision agriculture trends to watch in 2023",
+        "description": "t's that time of the year again – the time when we reflect on the past year and prepare for what’s on the horizon. As we enter 2023, there is no doubt that uncertainty is on the minds of many, particularly in the agriculture industry. Farmers continue to face various challenges, from volatile weather and market conditions to changing consumer preferences and supply chain disruptions. But despite these challenges, there is also a sense of optimism and opportunity in the air. Many farmers are turning to new precision agriculture technology and processes to help them navigate uncertainty and adapt to the changing landscape. These technologies also assist farmers in increasing efficiency, reducing waste, and improving their crops' quality and sustainability.",
+        "url":"https://agriculture.trimble.com/en/articles/resources/blog/precision-agriculture-trends-to-watch-2023"
+    },
+    {
+        "id": 6,
+        "image": "https://ajaybiotech.com/images/banner-blog-fertilizer.jpg",
+        "title": "BIOFERTILIZERS - BEST TOOL FOR AGRICULTURE",
+        "description": "Biofertilizer contains living micro-organisms which, when applied to soil, colonizes the rhizosphere or the interior of the plant and promotes growth by increasing the availability of primary nutrients to the host plant. Biofertilizers contain living or latent cells of efficient strains of microorganisms. They are eco-friendly. These can also be called as 'Live Fertilizer' and most commonly used in Organic Farming/Agriculture for nutrient availability. It increases crop yield by 20-30%, replaces chemical nitrogen and phosphorus by 30%, and stimulates plant growth. It can also provide protection against drought and some soil-borne diseases.",
+        "url":"https://ajaybiotech.com/blog-biofertilizers.html"
+    },
+    {
+        "id": 7,
+        "image": "https://www.agrivi.com/wp-content/uploads/2021/05/Crop-Diseases-The-Nightmare-of-Every-Farmer.jpeg",
+        "title": "Crop Diseases: The Nightmare of Every Farmer",
+        "description": "Like every other living organism, plants are susceptible to diseases. Crop disease involves any harmful deviation or alteration from the normal functioning of the physiological processes. Therefore, diseased plants suffer disturbances from normal life processes and their vital functions. In an attempt to reach high yields and healthy crops, farmers throughout the world struggle to prevent and eradicate various diseases from their crops. Each crop is susceptible to particular diseases that affect the quality and final yield potential.Generally, it’s estimated that various pests (insects, weeds, nematodes, animals, diseases) each year cause crop yield losses of 20-40%. More precisely, there is some data that maintains that crop diseases cause average yield losses of 42% for the most important food crops. In some cases, crop diseases destroy the whole crop production.",
+        "url":"https://www.agrivi.com/blog/crop-diseases-the-nightmare-of-every-farmer/"
+    },
+    {
+        "id": 8,
+        "image": "https://www.agrivi.com/wp-content/uploads/2021/05/How-to-Deal-With-Insect-Pests.jpeg",
+        "title": "How to Deal With Insect Pests?",
+        "description": "During these times, when the world is facing very intense population growth, farmers who are striving to meet the global food demands have become true heroes. Unfortunately, their mission of feeding the world is a demanding battle with unfavorable weather conditions and various pests that work against them. Insect pests are a universally recognized threat that widespread throughout the world. The term insect pest applies to any insect that inflicts damage to crops, animals, or humans. Insect pests reduce plant yield potential and severe infestation can even kill plants and destroy the whole crop production. Therefore, insects represent a serious problem in food and fiber crop production.",
+        "url":"https://www.agrivi.com/blog/how-to-deal-with-insect-pests/"
+    },
+    {
+        "id": 9,
+        "image": "https://eos.com/wp-content/uploads/2021/12/false-smut-in-rice.jpg.webp",
+        "title": "Crop Diseases: Types, Control, And Prevention",
+        "description": "Plant diseases are a severe threat to the entire production. Therefore, it is essential for farmers to effectively deal with them and check them with the help of timely prevention. Depending on the agricultural area size, this task can be difficult, especially since the list of harmful crop diseases is quite impressive. Modern technologies come to the aid of farmers. EOSDA Crop Monitoring allows you to identify dangerous areas and apply an individual approach to yield treatment, significantly increasing disease control effectiveness.",
+        "url":"https://eos.com/blog/crop-diseases/"
+    },
+    {
+        "id": 10,
+        "image": "https://yaraurl.net/noxh",
+        "title": "Why do plants need fertilizers?",
+        "description": "To grow healthy crops full of nutrients, farmers need to ensure they have healthy soil. Without fertilizers, nature struggles to replenish the nutrients in the soil. When crops are harvested, important nutrients are removed from the soil, because they follow the crop and end up at the dinner table. If the soil is not replenished with nutrients through fertilizing, crop yields will deteriorate over time. Careful analyzing and fertilizing of crops enables a chain that provides humans with nutritional food: The nutrients feed the soil, The soil feeds the plants, Plants feed animals and people. The three most common mineral fertilizers are those based on nitrogen, phosphorus and potassium. The International Fertilizer Association (IFA) estimate that 85% of the soils globally are deficient in nitrogen(1). 73% of the soils are deficient in phosphorus, whereas 55% lack potassium.",
+        "url":"https://www.yara.com/knowledge-grows/why-do-plants-need-fertilizers/"
+    }
+    
+]
+
