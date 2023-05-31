@@ -47,7 +47,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.mscomm</groupId>
-			<artifactId>department-service</artifactId>
+			<artifactId>blog-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	

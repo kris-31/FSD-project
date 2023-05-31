@@ -1,6 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer1";
-
+import Tabular from "./Tabular"
+import Graph from "../components/smallcomp/graph"
 const ContactUs = () => {
   return (
     <>
@@ -33,7 +34,12 @@ const ContactUs = () => {
          
         </div>
       </div>
-
+      <div>
+      
+      <Graph />
+      </div>
+      <div> </div>
+    <Tabular />
       <Footer />
 
     </>

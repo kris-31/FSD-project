@@ -1,0 +1,14 @@
+.space-align-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .space-align-block {
+    flex: none;
+    margin: 100px 80px;
+    padding: 80px;
+    border: 20px solid #f6bec7;
+  }
+  .label{
+    margin-left: 1px;
+  }

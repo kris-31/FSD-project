@@ -6,12 +6,13 @@ import images from "../imagesfile"
 
 const SingleAgri = (props) => {
   const [products, setProducts] = useState([]);
+  const [blog, setBlog] = useState([]);
   const { pathid } = useParams();
 
   console.log(pathid);
   //get data
   useEffect(() => {
-    fetch('http://localhost:8081/api/product/'+String(pathid))
+    fetch('http://localhost:8081/api/product/blog/'+String(pathid))
       .then(response => {
         if (!response.ok) {
           
@@ -20,7 +21,9 @@ const SingleAgri = (props) => {
         return response.json();
       })
       .then(data => {
-        setProducts(data);
+        setProducts(data.user);
+        console.log(data);
+        setBlog(data.department); //////
       })
       .catch(error => {
         console.error('Error:', error);
@@ -68,7 +71,7 @@ const SingleAgri = (props) => {
             <h6>
               <b>Name:</b> {name}
             </h6>
-            <h6>
+            <h6> 
               <b>Price: </b>₹{price}
             </h6>
             <h6>
@@ -80,6 +83,10 @@ const SingleAgri = (props) => {
             </h6>
             <h6><b>Category :</b> {organic ? "Organic Product" : "Non-Organic Product"}</h6>
             {/* <h6>{inorganic && "Inorganic Product"}</h6> */}
+            {/* below is using communication */}
+            <h6> 
+              <b>Also Read: </b><a href={blog.url} class="card-link">click here to read blog</a>
+            </h6>
           </article>
         </div>
       </section>

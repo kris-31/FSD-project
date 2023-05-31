@@ -1,0 +1,17 @@
+.a1 h2{
+    text-align: center;
+    color: #0a4694;
+    background-color: rgb(255, 255, 255);
+    padding:20px 00px 00px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.s1{
+    background-color: white;
+    color: black;
+    font-weight:normal;
+    background: white;
+}
+.ant_table_cell{
+    background-color: white!important;
+}
