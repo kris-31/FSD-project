@@ -1,0 +1,105 @@
+src/main/java/com/mscomm/articleservice/ArticlesServiceApplication.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/ArticlesServiceApplication.java:7:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/mscomm/articleservice/ArticlesServiceApplication.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mscomm/articleservice/ArticlesServiceApplication.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'department' is not assigned and could be declared final
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'savedArticles' could be declared final
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mscomm/articleservice/controller/ArticlesController.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'artList' could be declared final
+src/main/java/com/mscomm/articleservice/entity/Articles.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/entity/Articles.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/entity/Articles.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/mscomm/articleservice/entity/Articles.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/entity/Articles.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/entity/Articles.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/entity/Articles.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/repository/ArticlesRepository.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/service/ArticlesService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/service/ArticlesService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mscomm/articleservice/service/ArticlesService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mscomm/articleservice/service/impl/ArticlesServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mscomm/articleservice/service/impl/ArticlesServiceImpl.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mscomm/articleservice/service/impl/ArticlesServiceImpl.java:18:	LongVariable:	LongVariable: Avoid excessively long variable names like articlesRepository
+src/main/java/com/mscomm/articleservice/service/impl/ArticlesServiceImpl.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'department' is not assigned and could be declared final
+src/main/java/com/mscomm/articleservice/service/impl/ArticlesServiceImpl.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'reports' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:24:	UnnecessaryImport:	UnnecessaryImport: Unused static import 'org.mockito.ArgumentMatchers.anyList'
+src/test/java/com/mscomm/articlecontroller/controllertest.java:26:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mscomm/articlecontroller/controllertest.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mscomm/articlecontroller/controllertest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mscomm/articlecontroller/controllertest.java:32:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mscomm/articlecontroller/controllertest.java:32:	LongVariable:	LongVariable: Avoid excessively long variable names like articlesController
+src/test/java/com/mscomm/articlecontroller/controllertest.java:40:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/mscomm/articlecontroller/controllertest.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:56:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:57:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'savedArticles' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:59:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:60:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:60:	LawOfDemeter:	LawOfDemeter: Call to `getId` on foreign value `savedArticles` (degree 2)
+src/test/java/com/mscomm/articlecontroller/controllertest.java:61:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:61:	LawOfDemeter:	LawOfDemeter: Call to `getImage` on foreign value `savedArticles` (degree 2)
+src/test/java/com/mscomm/articlecontroller/controllertest.java:62:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:62:	LawOfDemeter:	LawOfDemeter: Call to `getTitle` on foreign value `savedArticles` (degree 2)
+src/test/java/com/mscomm/articlecontroller/controllertest.java:63:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:63:	LawOfDemeter:	LawOfDemeter: Call to `getDescription` on foreign value `savedArticles` (degree 2)
+src/test/java/com/mscomm/articlecontroller/controllertest.java:64:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:64:	LawOfDemeter:	LawOfDemeter: Call to `getUrl` on foreign value `savedArticles` (degree 2)
+src/test/java/com/mscomm/articlecontroller/controllertest.java:71:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/mscomm/articlecontroller/controllertest.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articlesList' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles1' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:82:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles2' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:97:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:98:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:99:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:100:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:101:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:103:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resultArticle1' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:104:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:105:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:106:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:107:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:108:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resultArticle2' could be declared final
+src/test/java/com/mscomm/articlecontroller/controllertest.java:111:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:112:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:113:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:114:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articlecontroller/controllertest.java:115:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:23:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mscomm/articleservicetest/servicetest.java:23:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mscomm/articleservicetest/servicetest.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mscomm/articleservicetest/servicetest.java:26:	LongVariable:	LongVariable: Avoid excessively long variable names like articlesRepository
+src/test/java/com/mscomm/articleservicetest/servicetest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mscomm/articleservicetest/servicetest.java:37:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/mscomm/articleservicetest/servicetest.java:39:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'savedArticles' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:53:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:54:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:55:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:56:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:57:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:58:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:65:	JUnitTestContainsTooManyAsserts:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/com/mscomm/articleservicetest/servicetest.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articlesList' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles1' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'articles2' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:91:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:92:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:94:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resultArticle1' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:95:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:96:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:97:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:98:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:99:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resultArticle2' could be declared final
+src/test/java/com/mscomm/articleservicetest/servicetest.java:102:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:103:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:104:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:105:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mscomm/articleservicetest/servicetest.java:106:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
